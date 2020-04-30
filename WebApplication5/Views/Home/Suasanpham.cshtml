@@ -1,0 +1,33 @@
+﻿
+@{
+    ViewBag.Title = "Suasanpham";
+}
+
+<h2>Suasanpham</h2>
+
+<div class="dropdown">
+    <button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown">
+        Dropdown Example
+        <span class="caret"></span>
+    </button>
+    <ul class="dropdown-menu">
+        
+        @foreach (var l in ViewBag.dsfull)
+        {
+            <li><a href="#">@l.ID</a></li>
+        }
+            
+        </ul>
+</div>
+
+<form action="@Url.Action("Resultsuasanpham","Home")" method="post">
+    <h2>
+        ID: <input class="dropdown-menu" type="text" name="id" value="" />
+        <br />
+    </h2>
+    <h2>
+        Name to Edit:  <input type="text" name="tensanpham" value="" /><br />
+    </h2>
+    <input type="submit" value="Add" />
+</form>
+

@@ -1,0 +1,440 @@
+C:\Users\Win 10\source\repos\WebApplication5\WebApplication5\obj\Debug\WebApplication5.csprojAssemblyReference.cache
+C:\Users\Win 10\source\repos\WebApplication5\WebApplication5\obj\Debug\WebApplication5.csproj.CoreCompileInputs.cache
+C:\Users\Win 10\source\repos\WebApplication5\WebApplication5\bin\WebApplication5.dll.config
+C:\Users\Win 10\source\repos\WebApplication5\WebApplication5\bin\WebApplication5.dll
+C:\Users\Win 10\source\repos\WebApplication5\WebApplication5\bin\WebApplication5.pdb
+C:\Users\Win 10\source\repos\WebApplication5\WebApplication5\bin\roslyn\csc.exe
+C:\Users\Win 10\source\repos\WebApplication5\WebApplication5\bin\roslyn\csc.exe.config
+C:\Users\Win 10\source\repos\WebApplication5\WebApplication5\bin\roslyn\csc.rsp
+C:\Users\Win 10\source\repos\WebApplication5\WebApplication5\bin\roslyn\csi.exe
+C:\Users\Win 10\source\repos\WebApplication5\WebApplication5\bin\roslyn\csi.exe.config
+C:\Users\Win 10\source\repos\WebApplication5\WebApplication5\bin\roslyn\csi.rsp
+C:\Users\Win 10\source\repos\WebApplication5\WebApplication5\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Win 10\source\repos\WebApplication5\WebApplication5\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Win 10\source\repos\WebApplication5\WebApplication5\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Win 10\source\repos\WebApplication5\WebApplication5\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Win 10\source\repos\WebApplication5\WebApplication5\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Win 10\source\repos\WebApplication5\WebApplication5\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Win 10\source\repos\WebApplication5\WebApplication5\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Win 10\source\repos\WebApplication5\WebApplication5\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Win 10\source\repos\WebApplication5\WebApplication5\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Win 10\source\repos\WebApplication5\WebApplication5\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Win 10\source\repos\WebApplication5\WebApplication5\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Win 10\source\repos\WebApplication5\WebApplication5\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Win 10\source\repos\WebApplication5\WebApplication5\bin\roslyn\System.AppContext.dll
+C:\Users\Win 10\source\repos\WebApplication5\WebApplication5\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Win 10\source\repos\WebApplication5\WebApplication5\bin\roslyn\System.Console.dll
+C:\Users\Win 10\source\repos\WebApplication5\WebApplication5\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Win 10\source\repos\WebApplication5\WebApplication5\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Win 10\source\repos\WebApplication5\WebApplication5\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Win 10\source\repos\WebApplication5\WebApplication5\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Win 10\source\repos\WebApplication5\WebApplication5\bin\roslyn\System.IO.Compression.dll
+C:\Users\Win 10\source\repos\WebApplication5\WebApplication5\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Win 10\source\repos\WebApplication5\WebApplication5\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Win 10\source\repos\WebApplication5\WebApplication5\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Win 10\source\repos\WebApplication5\WebApplication5\bin\roslyn\System.Net.Http.dll
+C:\Users\Win 10\source\repos\WebApplication5\WebApplication5\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Win 10\source\repos\WebApplication5\WebApplication5\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Win 10\source\repos\WebApplication5\WebApplication5\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Win 10\source\repos\WebApplication5\WebApplication5\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Win 10\source\repos\WebApplication5\WebApplication5\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Win 10\source\repos\WebApplication5\WebApplication5\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Win 10\source\repos\WebApplication5\WebApplication5\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Win 10\source\repos\WebApplication5\WebApplication5\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Win 10\source\repos\WebApplication5\WebApplication5\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Win 10\source\repos\WebApplication5\WebApplication5\bin\roslyn\System.ValueTuple.dll
+C:\Users\Win 10\source\repos\WebApplication5\WebApplication5\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Win 10\source\repos\WebApplication5\WebApplication5\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Win 10\source\repos\WebApplication5\WebApplication5\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Win 10\source\repos\WebApplication5\WebApplication5\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Win 10\source\repos\WebApplication5\WebApplication5\bin\roslyn\vbc.exe
+C:\Users\Win 10\source\repos\WebApplication5\WebApplication5\bin\roslyn\vbc.exe.config
+C:\Users\Win 10\source\repos\WebApplication5\WebApplication5\bin\roslyn\vbc.rsp
+C:\Users\Win 10\source\repos\WebApplication5\WebApplication5\bin\roslyn\VBCSCompiler.exe
+C:\Users\Win 10\source\repos\WebApplication5\WebApplication5\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Win 10\source\repos\WebApplication5\WebApplication5\bin\Antlr3.Runtime.dll
+C:\Users\Win 10\source\repos\WebApplication5\WebApplication5\bin\EntityFramework.dll
+C:\Users\Win 10\source\repos\WebApplication5\WebApplication5\bin\EntityFramework.SqlServer.dll
+C:\Users\Win 10\source\repos\WebApplication5\WebApplication5\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Win 10\source\repos\WebApplication5\WebApplication5\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Win 10\source\repos\WebApplication5\WebApplication5\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Win 10\source\repos\WebApplication5\WebApplication5\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Win 10\source\repos\WebApplication5\WebApplication5\bin\Microsoft.Owin.dll
+C:\Users\Win 10\source\repos\WebApplication5\WebApplication5\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Win 10\source\repos\WebApplication5\WebApplication5\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Win 10\source\repos\WebApplication5\WebApplication5\bin\Microsoft.Owin.Security.dll
+C:\Users\Win 10\source\repos\WebApplication5\WebApplication5\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Win 10\source\repos\WebApplication5\WebApplication5\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Win 10\source\repos\WebApplication5\WebApplication5\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Win 10\source\repos\WebApplication5\WebApplication5\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Win 10\source\repos\WebApplication5\WebApplication5\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Win 10\source\repos\WebApplication5\WebApplication5\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Win 10\source\repos\WebApplication5\WebApplication5\bin\Newtonsoft.Json.dll
+C:\Users\Win 10\source\repos\WebApplication5\WebApplication5\bin\Owin.dll
+C:\Users\Win 10\source\repos\WebApplication5\WebApplication5\bin\System.Web.Helpers.dll
+C:\Users\Win 10\source\repos\WebApplication5\WebApplication5\bin\System.Web.Mvc.dll
+C:\Users\Win 10\source\repos\WebApplication5\WebApplication5\bin\System.Web.Optimization.dll
+C:\Users\Win 10\source\repos\WebApplication5\WebApplication5\bin\System.Web.Razor.dll
+C:\Users\Win 10\source\repos\WebApplication5\WebApplication5\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Win 10\source\repos\WebApplication5\WebApplication5\bin\System.Web.WebPages.dll
+C:\Users\Win 10\source\repos\WebApplication5\WebApplication5\bin\System.Web.WebPages.Razor.dll
+C:\Users\Win 10\source\repos\WebApplication5\WebApplication5\bin\WebGrease.dll
+C:\Users\Win 10\source\repos\WebApplication5\WebApplication5\bin\System.Web.Helpers.xml
+C:\Users\Win 10\source\repos\WebApplication5\WebApplication5\bin\System.Web.Mvc.xml
+C:\Users\Win 10\source\repos\WebApplication5\WebApplication5\bin\System.Web.Optimization.xml
+C:\Users\Win 10\source\repos\WebApplication5\WebApplication5\bin\System.Web.Razor.xml
+C:\Users\Win 10\source\repos\WebApplication5\WebApplication5\bin\System.Web.WebPages.xml
+C:\Users\Win 10\source\repos\WebApplication5\WebApplication5\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Win 10\source\repos\WebApplication5\WebApplication5\bin\System.Web.WebPages.Razor.xml
+C:\Users\Win 10\source\repos\WebApplication5\WebApplication5\bin\Newtonsoft.Json.xml
+C:\Users\Win 10\source\repos\WebApplication5\WebApplication5\bin\Antlr3.Runtime.pdb
+C:\Users\Win 10\source\repos\WebApplication5\WebApplication5\bin\EntityFramework.xml
+C:\Users\Win 10\source\repos\WebApplication5\WebApplication5\bin\EntityFramework.SqlServer.xml
+C:\Users\Win 10\source\repos\WebApplication5\WebApplication5\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Win 10\source\repos\WebApplication5\WebApplication5\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Win 10\source\repos\WebApplication5\WebApplication5\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Win 10\source\repos\WebApplication5\WebApplication5\bin\Microsoft.Owin.xml
+C:\Users\Win 10\source\repos\WebApplication5\WebApplication5\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Win 10\source\repos\WebApplication5\WebApplication5\bin\Microsoft.Owin.Security.xml
+C:\Users\Win 10\source\repos\WebApplication5\WebApplication5\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Win 10\source\repos\WebApplication5\WebApplication5\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Win 10\source\repos\WebApplication5\WebApplication5\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Win 10\source\repos\WebApplication5\WebApplication5\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Win 10\source\repos\WebApplication5\WebApplication5\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Win 10\source\repos\WebApplication5\WebApplication5\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Win 10\source\repos\WebApplication5\WebApplication5\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Win 10\source\repos\WebApplication5\WebApplication5\obj\Debug\WebApplication5.csproj.CopyComplete
+C:\Users\Win 10\source\repos\WebApplication5\WebApplication5\obj\Debug\WebApplication5.dll
+C:\Users\Win 10\source\repos\WebApplication5\WebApplication5\obj\Debug\WebApplication5.pdb
+C:\Users\Win 10\source\repos\WebApplication5\WebApplication5\obj\Debug\WebApplication5.Migrations.Initial.resources
+C:\Users\Win 10\source\repos\WebApplication5\WebApplication5\obj\Debug\WebApplication5.csproj.GenerateResource.cache
+C:\kế hoạch B\WebApplication5\bin\WebApplication5.dll.config
+C:\kế hoạch B\WebApplication5\bin\WebApplication5.dll
+C:\kế hoạch B\WebApplication5\bin\WebApplication5.pdb
+C:\kế hoạch B\WebApplication5\bin\roslyn\csc.exe
+C:\kế hoạch B\WebApplication5\bin\roslyn\csc.exe.config
+C:\kế hoạch B\WebApplication5\bin\roslyn\csc.rsp
+C:\kế hoạch B\WebApplication5\bin\roslyn\csi.exe
+C:\kế hoạch B\WebApplication5\bin\roslyn\csi.exe.config
+C:\kế hoạch B\WebApplication5\bin\roslyn\csi.rsp
+C:\kế hoạch B\WebApplication5\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\kế hoạch B\WebApplication5\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\kế hoạch B\WebApplication5\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\kế hoạch B\WebApplication5\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\kế hoạch B\WebApplication5\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\kế hoạch B\WebApplication5\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\kế hoạch B\WebApplication5\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\kế hoạch B\WebApplication5\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\kế hoạch B\WebApplication5\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\kế hoạch B\WebApplication5\bin\roslyn\Microsoft.Managed.Core.targets
+C:\kế hoạch B\WebApplication5\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\kế hoạch B\WebApplication5\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\kế hoạch B\WebApplication5\bin\roslyn\System.AppContext.dll
+C:\kế hoạch B\WebApplication5\bin\roslyn\System.Collections.Immutable.dll
+C:\kế hoạch B\WebApplication5\bin\roslyn\System.Console.dll
+C:\kế hoạch B\WebApplication5\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\kế hoạch B\WebApplication5\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\kế hoạch B\WebApplication5\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\kế hoạch B\WebApplication5\bin\roslyn\System.Globalization.Calendars.dll
+C:\kế hoạch B\WebApplication5\bin\roslyn\System.IO.Compression.dll
+C:\kế hoạch B\WebApplication5\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\kế hoạch B\WebApplication5\bin\roslyn\System.IO.FileSystem.dll
+C:\kế hoạch B\WebApplication5\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\kế hoạch B\WebApplication5\bin\roslyn\System.Net.Http.dll
+C:\kế hoạch B\WebApplication5\bin\roslyn\System.Net.Sockets.dll
+C:\kế hoạch B\WebApplication5\bin\roslyn\System.Reflection.Metadata.dll
+C:\kế hoạch B\WebApplication5\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\kế hoạch B\WebApplication5\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\kế hoạch B\WebApplication5\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\kế hoạch B\WebApplication5\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\kế hoạch B\WebApplication5\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\kế hoạch B\WebApplication5\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\kế hoạch B\WebApplication5\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\kế hoạch B\WebApplication5\bin\roslyn\System.ValueTuple.dll
+C:\kế hoạch B\WebApplication5\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\kế hoạch B\WebApplication5\bin\roslyn\System.Xml.XmlDocument.dll
+C:\kế hoạch B\WebApplication5\bin\roslyn\System.Xml.XPath.dll
+C:\kế hoạch B\WebApplication5\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\kế hoạch B\WebApplication5\bin\roslyn\vbc.exe
+C:\kế hoạch B\WebApplication5\bin\roslyn\vbc.exe.config
+C:\kế hoạch B\WebApplication5\bin\roslyn\vbc.rsp
+C:\kế hoạch B\WebApplication5\bin\roslyn\VBCSCompiler.exe
+C:\kế hoạch B\WebApplication5\bin\roslyn\VBCSCompiler.exe.config
+C:\kế hoạch B\WebApplication5\bin\Antlr3.Runtime.dll
+C:\kế hoạch B\WebApplication5\bin\EntityFramework.dll
+C:\kế hoạch B\WebApplication5\bin\EntityFramework.SqlServer.dll
+C:\kế hoạch B\WebApplication5\bin\Microsoft.AspNet.Identity.Core.dll
+C:\kế hoạch B\WebApplication5\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\kế hoạch B\WebApplication5\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\kế hoạch B\WebApplication5\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\kế hoạch B\WebApplication5\bin\Microsoft.Owin.dll
+C:\kế hoạch B\WebApplication5\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\kế hoạch B\WebApplication5\bin\Microsoft.Owin.Security.Cookies.dll
+C:\kế hoạch B\WebApplication5\bin\Microsoft.Owin.Security.dll
+C:\kế hoạch B\WebApplication5\bin\Microsoft.Owin.Security.Facebook.dll
+C:\kế hoạch B\WebApplication5\bin\Microsoft.Owin.Security.Google.dll
+C:\kế hoạch B\WebApplication5\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\kế hoạch B\WebApplication5\bin\Microsoft.Owin.Security.OAuth.dll
+C:\kế hoạch B\WebApplication5\bin\Microsoft.Owin.Security.Twitter.dll
+C:\kế hoạch B\WebApplication5\bin\Microsoft.Web.Infrastructure.dll
+C:\kế hoạch B\WebApplication5\bin\Newtonsoft.Json.dll
+C:\kế hoạch B\WebApplication5\bin\Owin.dll
+C:\kế hoạch B\WebApplication5\bin\System.Web.Helpers.dll
+C:\kế hoạch B\WebApplication5\bin\System.Web.Mvc.dll
+C:\kế hoạch B\WebApplication5\bin\System.Web.Optimization.dll
+C:\kế hoạch B\WebApplication5\bin\System.Web.Razor.dll
+C:\kế hoạch B\WebApplication5\bin\System.Web.WebPages.Deployment.dll
+C:\kế hoạch B\WebApplication5\bin\System.Web.WebPages.dll
+C:\kế hoạch B\WebApplication5\bin\System.Web.WebPages.Razor.dll
+C:\kế hoạch B\WebApplication5\bin\WebGrease.dll
+C:\kế hoạch B\WebApplication5\bin\System.Web.Helpers.xml
+C:\kế hoạch B\WebApplication5\bin\System.Web.Mvc.xml
+C:\kế hoạch B\WebApplication5\bin\System.Web.Optimization.xml
+C:\kế hoạch B\WebApplication5\bin\System.Web.Razor.xml
+C:\kế hoạch B\WebApplication5\bin\System.Web.WebPages.xml
+C:\kế hoạch B\WebApplication5\bin\System.Web.WebPages.Deployment.xml
+C:\kế hoạch B\WebApplication5\bin\System.Web.WebPages.Razor.xml
+C:\kế hoạch B\WebApplication5\bin\Newtonsoft.Json.xml
+C:\kế hoạch B\WebApplication5\bin\Antlr3.Runtime.pdb
+C:\kế hoạch B\WebApplication5\bin\EntityFramework.xml
+C:\kế hoạch B\WebApplication5\bin\EntityFramework.SqlServer.xml
+C:\kế hoạch B\WebApplication5\bin\Microsoft.AspNet.Identity.Core.xml
+C:\kế hoạch B\WebApplication5\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\kế hoạch B\WebApplication5\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\kế hoạch B\WebApplication5\bin\Microsoft.Owin.xml
+C:\kế hoạch B\WebApplication5\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\kế hoạch B\WebApplication5\bin\Microsoft.Owin.Security.xml
+C:\kế hoạch B\WebApplication5\bin\Microsoft.Owin.Security.Facebook.xml
+C:\kế hoạch B\WebApplication5\bin\Microsoft.Owin.Security.Cookies.xml
+C:\kế hoạch B\WebApplication5\bin\Microsoft.Owin.Security.Google.xml
+C:\kế hoạch B\WebApplication5\bin\Microsoft.Owin.Security.Twitter.xml
+C:\kế hoạch B\WebApplication5\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\kế hoạch B\WebApplication5\bin\Microsoft.Owin.Security.OAuth.xml
+C:\kế hoạch B\WebApplication5\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\kế hoạch B\WebApplication5\obj\Debug\WebApplication5.csprojAssemblyReference.cache
+C:\kế hoạch B\WebApplication5\obj\Debug\WebApplication5.Migrations.Initial.resources
+C:\kế hoạch B\WebApplication5\obj\Debug\WebApplication5.csproj.GenerateResource.cache
+C:\kế hoạch B\WebApplication5\obj\Debug\WebApplication5.csproj.CoreCompileInputs.cache
+C:\kế hoạch B\WebApplication5\obj\Debug\WebApplication5.csproj.CopyComplete
+C:\kế hoạch B\WebApplication5\obj\Debug\WebApplication5.dll
+C:\kế hoạch B\WebApplication5\obj\Debug\WebApplication5.pdb
+C:\kế hoạch B\Phantranduyan_17dh111112\WebApplication5\bin\WebApplication5.dll.config
+C:\kế hoạch B\Phantranduyan_17dh111112\WebApplication5\bin\WebApplication5.dll
+C:\kế hoạch B\Phantranduyan_17dh111112\WebApplication5\bin\WebApplication5.pdb
+C:\kế hoạch B\Phantranduyan_17dh111112\WebApplication5\bin\roslyn\csc.exe
+C:\kế hoạch B\Phantranduyan_17dh111112\WebApplication5\bin\roslyn\csc.exe.config
+C:\kế hoạch B\Phantranduyan_17dh111112\WebApplication5\bin\roslyn\csc.rsp
+C:\kế hoạch B\Phantranduyan_17dh111112\WebApplication5\bin\roslyn\csi.exe
+C:\kế hoạch B\Phantranduyan_17dh111112\WebApplication5\bin\roslyn\csi.exe.config
+C:\kế hoạch B\Phantranduyan_17dh111112\WebApplication5\bin\roslyn\csi.rsp
+C:\kế hoạch B\Phantranduyan_17dh111112\WebApplication5\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\kế hoạch B\Phantranduyan_17dh111112\WebApplication5\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\kế hoạch B\Phantranduyan_17dh111112\WebApplication5\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\kế hoạch B\Phantranduyan_17dh111112\WebApplication5\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\kế hoạch B\Phantranduyan_17dh111112\WebApplication5\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\kế hoạch B\Phantranduyan_17dh111112\WebApplication5\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\kế hoạch B\Phantranduyan_17dh111112\WebApplication5\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\kế hoạch B\Phantranduyan_17dh111112\WebApplication5\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\kế hoạch B\Phantranduyan_17dh111112\WebApplication5\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\kế hoạch B\Phantranduyan_17dh111112\WebApplication5\bin\roslyn\Microsoft.Managed.Core.targets
+C:\kế hoạch B\Phantranduyan_17dh111112\WebApplication5\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\kế hoạch B\Phantranduyan_17dh111112\WebApplication5\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\kế hoạch B\Phantranduyan_17dh111112\WebApplication5\bin\roslyn\System.AppContext.dll
+C:\kế hoạch B\Phantranduyan_17dh111112\WebApplication5\bin\roslyn\System.Collections.Immutable.dll
+C:\kế hoạch B\Phantranduyan_17dh111112\WebApplication5\bin\roslyn\System.Console.dll
+C:\kế hoạch B\Phantranduyan_17dh111112\WebApplication5\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\kế hoạch B\Phantranduyan_17dh111112\WebApplication5\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\kế hoạch B\Phantranduyan_17dh111112\WebApplication5\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\kế hoạch B\Phantranduyan_17dh111112\WebApplication5\bin\roslyn\System.Globalization.Calendars.dll
+C:\kế hoạch B\Phantranduyan_17dh111112\WebApplication5\bin\roslyn\System.IO.Compression.dll
+C:\kế hoạch B\Phantranduyan_17dh111112\WebApplication5\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\kế hoạch B\Phantranduyan_17dh111112\WebApplication5\bin\roslyn\System.IO.FileSystem.dll
+C:\kế hoạch B\Phantranduyan_17dh111112\WebApplication5\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\kế hoạch B\Phantranduyan_17dh111112\WebApplication5\bin\roslyn\System.Net.Http.dll
+C:\kế hoạch B\Phantranduyan_17dh111112\WebApplication5\bin\roslyn\System.Net.Sockets.dll
+C:\kế hoạch B\Phantranduyan_17dh111112\WebApplication5\bin\roslyn\System.Reflection.Metadata.dll
+C:\kế hoạch B\Phantranduyan_17dh111112\WebApplication5\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\kế hoạch B\Phantranduyan_17dh111112\WebApplication5\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\kế hoạch B\Phantranduyan_17dh111112\WebApplication5\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\kế hoạch B\Phantranduyan_17dh111112\WebApplication5\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\kế hoạch B\Phantranduyan_17dh111112\WebApplication5\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\kế hoạch B\Phantranduyan_17dh111112\WebApplication5\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\kế hoạch B\Phantranduyan_17dh111112\WebApplication5\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\kế hoạch B\Phantranduyan_17dh111112\WebApplication5\bin\roslyn\System.ValueTuple.dll
+C:\kế hoạch B\Phantranduyan_17dh111112\WebApplication5\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\kế hoạch B\Phantranduyan_17dh111112\WebApplication5\bin\roslyn\System.Xml.XmlDocument.dll
+C:\kế hoạch B\Phantranduyan_17dh111112\WebApplication5\bin\roslyn\System.Xml.XPath.dll
+C:\kế hoạch B\Phantranduyan_17dh111112\WebApplication5\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\kế hoạch B\Phantranduyan_17dh111112\WebApplication5\bin\roslyn\vbc.exe
+C:\kế hoạch B\Phantranduyan_17dh111112\WebApplication5\bin\roslyn\vbc.exe.config
+C:\kế hoạch B\Phantranduyan_17dh111112\WebApplication5\bin\roslyn\vbc.rsp
+C:\kế hoạch B\Phantranduyan_17dh111112\WebApplication5\bin\roslyn\VBCSCompiler.exe
+C:\kế hoạch B\Phantranduyan_17dh111112\WebApplication5\bin\roslyn\VBCSCompiler.exe.config
+C:\kế hoạch B\Phantranduyan_17dh111112\WebApplication5\bin\Antlr3.Runtime.dll
+C:\kế hoạch B\Phantranduyan_17dh111112\WebApplication5\bin\EntityFramework.dll
+C:\kế hoạch B\Phantranduyan_17dh111112\WebApplication5\bin\EntityFramework.SqlServer.dll
+C:\kế hoạch B\Phantranduyan_17dh111112\WebApplication5\bin\Microsoft.AspNet.Identity.Core.dll
+C:\kế hoạch B\Phantranduyan_17dh111112\WebApplication5\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\kế hoạch B\Phantranduyan_17dh111112\WebApplication5\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\kế hoạch B\Phantranduyan_17dh111112\WebApplication5\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\kế hoạch B\Phantranduyan_17dh111112\WebApplication5\bin\Microsoft.Owin.dll
+C:\kế hoạch B\Phantranduyan_17dh111112\WebApplication5\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\kế hoạch B\Phantranduyan_17dh111112\WebApplication5\bin\Microsoft.Owin.Security.Cookies.dll
+C:\kế hoạch B\Phantranduyan_17dh111112\WebApplication5\bin\Microsoft.Owin.Security.dll
+C:\kế hoạch B\Phantranduyan_17dh111112\WebApplication5\bin\Microsoft.Owin.Security.Facebook.dll
+C:\kế hoạch B\Phantranduyan_17dh111112\WebApplication5\bin\Microsoft.Owin.Security.Google.dll
+C:\kế hoạch B\Phantranduyan_17dh111112\WebApplication5\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\kế hoạch B\Phantranduyan_17dh111112\WebApplication5\bin\Microsoft.Owin.Security.OAuth.dll
+C:\kế hoạch B\Phantranduyan_17dh111112\WebApplication5\bin\Microsoft.Owin.Security.Twitter.dll
+C:\kế hoạch B\Phantranduyan_17dh111112\WebApplication5\bin\Microsoft.Web.Infrastructure.dll
+C:\kế hoạch B\Phantranduyan_17dh111112\WebApplication5\bin\Newtonsoft.Json.dll
+C:\kế hoạch B\Phantranduyan_17dh111112\WebApplication5\bin\Owin.dll
+C:\kế hoạch B\Phantranduyan_17dh111112\WebApplication5\bin\System.Web.Helpers.dll
+C:\kế hoạch B\Phantranduyan_17dh111112\WebApplication5\bin\System.Web.Mvc.dll
+C:\kế hoạch B\Phantranduyan_17dh111112\WebApplication5\bin\System.Web.Optimization.dll
+C:\kế hoạch B\Phantranduyan_17dh111112\WebApplication5\bin\System.Web.Razor.dll
+C:\kế hoạch B\Phantranduyan_17dh111112\WebApplication5\bin\System.Web.WebPages.Deployment.dll
+C:\kế hoạch B\Phantranduyan_17dh111112\WebApplication5\bin\System.Web.WebPages.dll
+C:\kế hoạch B\Phantranduyan_17dh111112\WebApplication5\bin\System.Web.WebPages.Razor.dll
+C:\kế hoạch B\Phantranduyan_17dh111112\WebApplication5\bin\WebGrease.dll
+C:\kế hoạch B\Phantranduyan_17dh111112\WebApplication5\bin\System.Web.Helpers.xml
+C:\kế hoạch B\Phantranduyan_17dh111112\WebApplication5\bin\System.Web.Mvc.xml
+C:\kế hoạch B\Phantranduyan_17dh111112\WebApplication5\bin\System.Web.Optimization.xml
+C:\kế hoạch B\Phantranduyan_17dh111112\WebApplication5\bin\System.Web.Razor.xml
+C:\kế hoạch B\Phantranduyan_17dh111112\WebApplication5\bin\System.Web.WebPages.xml
+C:\kế hoạch B\Phantranduyan_17dh111112\WebApplication5\bin\System.Web.WebPages.Deployment.xml
+C:\kế hoạch B\Phantranduyan_17dh111112\WebApplication5\bin\System.Web.WebPages.Razor.xml
+C:\kế hoạch B\Phantranduyan_17dh111112\WebApplication5\bin\Newtonsoft.Json.xml
+C:\kế hoạch B\Phantranduyan_17dh111112\WebApplication5\bin\Antlr3.Runtime.pdb
+C:\kế hoạch B\Phantranduyan_17dh111112\WebApplication5\bin\EntityFramework.xml
+C:\kế hoạch B\Phantranduyan_17dh111112\WebApplication5\bin\EntityFramework.SqlServer.xml
+C:\kế hoạch B\Phantranduyan_17dh111112\WebApplication5\bin\Microsoft.AspNet.Identity.Core.xml
+C:\kế hoạch B\Phantranduyan_17dh111112\WebApplication5\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\kế hoạch B\Phantranduyan_17dh111112\WebApplication5\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\kế hoạch B\Phantranduyan_17dh111112\WebApplication5\bin\Microsoft.Owin.xml
+C:\kế hoạch B\Phantranduyan_17dh111112\WebApplication5\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\kế hoạch B\Phantranduyan_17dh111112\WebApplication5\bin\Microsoft.Owin.Security.xml
+C:\kế hoạch B\Phantranduyan_17dh111112\WebApplication5\bin\Microsoft.Owin.Security.Facebook.xml
+C:\kế hoạch B\Phantranduyan_17dh111112\WebApplication5\bin\Microsoft.Owin.Security.Cookies.xml
+C:\kế hoạch B\Phantranduyan_17dh111112\WebApplication5\bin\Microsoft.Owin.Security.Google.xml
+C:\kế hoạch B\Phantranduyan_17dh111112\WebApplication5\bin\Microsoft.Owin.Security.Twitter.xml
+C:\kế hoạch B\Phantranduyan_17dh111112\WebApplication5\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\kế hoạch B\Phantranduyan_17dh111112\WebApplication5\bin\Microsoft.Owin.Security.OAuth.xml
+C:\kế hoạch B\Phantranduyan_17dh111112\WebApplication5\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\kế hoạch B\Phantranduyan_17dh111112\WebApplication5\obj\Debug\WebApplication5.csprojAssemblyReference.cache
+C:\kế hoạch B\Phantranduyan_17dh111112\WebApplication5\obj\Debug\WebApplication5.Migrations.Initial.resources
+C:\kế hoạch B\Phantranduyan_17dh111112\WebApplication5\obj\Debug\WebApplication5.csproj.GenerateResource.cache
+C:\kế hoạch B\Phantranduyan_17dh111112\WebApplication5\obj\Debug\WebApplication5.csproj.CoreCompileInputs.cache
+C:\kế hoạch B\Phantranduyan_17dh111112\WebApplication5\obj\Debug\WebApplication5.csproj.CopyComplete
+C:\kế hoạch B\Phantranduyan_17dh111112\WebApplication5\obj\Debug\WebApplication5.dll
+C:\kế hoạch B\Phantranduyan_17dh111112\WebApplication5\obj\Debug\WebApplication5.pdb
+C:\Users\Win 10\Desktop\web nâng cao\BT5\WebApplication5\bin\WebApplication5.dll.config
+C:\Users\Win 10\Desktop\web nâng cao\BT5\WebApplication5\bin\WebApplication5.dll
+C:\Users\Win 10\Desktop\web nâng cao\BT5\WebApplication5\bin\WebApplication5.pdb
+C:\Users\Win 10\Desktop\web nâng cao\BT5\WebApplication5\bin\roslyn\csc.exe
+C:\Users\Win 10\Desktop\web nâng cao\BT5\WebApplication5\bin\roslyn\csc.exe.config
+C:\Users\Win 10\Desktop\web nâng cao\BT5\WebApplication5\bin\roslyn\csc.rsp
+C:\Users\Win 10\Desktop\web nâng cao\BT5\WebApplication5\bin\roslyn\csi.exe
+C:\Users\Win 10\Desktop\web nâng cao\BT5\WebApplication5\bin\roslyn\csi.exe.config
+C:\Users\Win 10\Desktop\web nâng cao\BT5\WebApplication5\bin\roslyn\csi.rsp
+C:\Users\Win 10\Desktop\web nâng cao\BT5\WebApplication5\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Win 10\Desktop\web nâng cao\BT5\WebApplication5\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Win 10\Desktop\web nâng cao\BT5\WebApplication5\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Win 10\Desktop\web nâng cao\BT5\WebApplication5\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Win 10\Desktop\web nâng cao\BT5\WebApplication5\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Win 10\Desktop\web nâng cao\BT5\WebApplication5\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Win 10\Desktop\web nâng cao\BT5\WebApplication5\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Win 10\Desktop\web nâng cao\BT5\WebApplication5\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Win 10\Desktop\web nâng cao\BT5\WebApplication5\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Win 10\Desktop\web nâng cao\BT5\WebApplication5\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Win 10\Desktop\web nâng cao\BT5\WebApplication5\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Win 10\Desktop\web nâng cao\BT5\WebApplication5\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Win 10\Desktop\web nâng cao\BT5\WebApplication5\bin\roslyn\System.AppContext.dll
+C:\Users\Win 10\Desktop\web nâng cao\BT5\WebApplication5\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Win 10\Desktop\web nâng cao\BT5\WebApplication5\bin\roslyn\System.Console.dll
+C:\Users\Win 10\Desktop\web nâng cao\BT5\WebApplication5\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Win 10\Desktop\web nâng cao\BT5\WebApplication5\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Win 10\Desktop\web nâng cao\BT5\WebApplication5\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Win 10\Desktop\web nâng cao\BT5\WebApplication5\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Win 10\Desktop\web nâng cao\BT5\WebApplication5\bin\roslyn\System.IO.Compression.dll
+C:\Users\Win 10\Desktop\web nâng cao\BT5\WebApplication5\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Win 10\Desktop\web nâng cao\BT5\WebApplication5\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Win 10\Desktop\web nâng cao\BT5\WebApplication5\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Win 10\Desktop\web nâng cao\BT5\WebApplication5\bin\roslyn\System.Net.Http.dll
+C:\Users\Win 10\Desktop\web nâng cao\BT5\WebApplication5\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Win 10\Desktop\web nâng cao\BT5\WebApplication5\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Win 10\Desktop\web nâng cao\BT5\WebApplication5\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Win 10\Desktop\web nâng cao\BT5\WebApplication5\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Win 10\Desktop\web nâng cao\BT5\WebApplication5\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Win 10\Desktop\web nâng cao\BT5\WebApplication5\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Win 10\Desktop\web nâng cao\BT5\WebApplication5\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Win 10\Desktop\web nâng cao\BT5\WebApplication5\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Win 10\Desktop\web nâng cao\BT5\WebApplication5\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Win 10\Desktop\web nâng cao\BT5\WebApplication5\bin\roslyn\System.ValueTuple.dll
+C:\Users\Win 10\Desktop\web nâng cao\BT5\WebApplication5\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Win 10\Desktop\web nâng cao\BT5\WebApplication5\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Win 10\Desktop\web nâng cao\BT5\WebApplication5\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Win 10\Desktop\web nâng cao\BT5\WebApplication5\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Win 10\Desktop\web nâng cao\BT5\WebApplication5\bin\roslyn\vbc.exe
+C:\Users\Win 10\Desktop\web nâng cao\BT5\WebApplication5\bin\roslyn\vbc.exe.config
+C:\Users\Win 10\Desktop\web nâng cao\BT5\WebApplication5\bin\roslyn\vbc.rsp
+C:\Users\Win 10\Desktop\web nâng cao\BT5\WebApplication5\bin\roslyn\VBCSCompiler.exe
+C:\Users\Win 10\Desktop\web nâng cao\BT5\WebApplication5\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Win 10\Desktop\web nâng cao\BT5\WebApplication5\bin\Antlr3.Runtime.dll
+C:\Users\Win 10\Desktop\web nâng cao\BT5\WebApplication5\bin\EntityFramework.dll
+C:\Users\Win 10\Desktop\web nâng cao\BT5\WebApplication5\bin\EntityFramework.SqlServer.dll
+C:\Users\Win 10\Desktop\web nâng cao\BT5\WebApplication5\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Win 10\Desktop\web nâng cao\BT5\WebApplication5\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Win 10\Desktop\web nâng cao\BT5\WebApplication5\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Win 10\Desktop\web nâng cao\BT5\WebApplication5\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Win 10\Desktop\web nâng cao\BT5\WebApplication5\bin\Microsoft.Owin.dll
+C:\Users\Win 10\Desktop\web nâng cao\BT5\WebApplication5\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Win 10\Desktop\web nâng cao\BT5\WebApplication5\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Win 10\Desktop\web nâng cao\BT5\WebApplication5\bin\Microsoft.Owin.Security.dll
+C:\Users\Win 10\Desktop\web nâng cao\BT5\WebApplication5\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Win 10\Desktop\web nâng cao\BT5\WebApplication5\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Win 10\Desktop\web nâng cao\BT5\WebApplication5\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Win 10\Desktop\web nâng cao\BT5\WebApplication5\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Win 10\Desktop\web nâng cao\BT5\WebApplication5\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Win 10\Desktop\web nâng cao\BT5\WebApplication5\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Win 10\Desktop\web nâng cao\BT5\WebApplication5\bin\Newtonsoft.Json.dll
+C:\Users\Win 10\Desktop\web nâng cao\BT5\WebApplication5\bin\Owin.dll
+C:\Users\Win 10\Desktop\web nâng cao\BT5\WebApplication5\bin\System.Web.Helpers.dll
+C:\Users\Win 10\Desktop\web nâng cao\BT5\WebApplication5\bin\System.Web.Mvc.dll
+C:\Users\Win 10\Desktop\web nâng cao\BT5\WebApplication5\bin\System.Web.Optimization.dll
+C:\Users\Win 10\Desktop\web nâng cao\BT5\WebApplication5\bin\System.Web.Razor.dll
+C:\Users\Win 10\Desktop\web nâng cao\BT5\WebApplication5\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Win 10\Desktop\web nâng cao\BT5\WebApplication5\bin\System.Web.WebPages.dll
+C:\Users\Win 10\Desktop\web nâng cao\BT5\WebApplication5\bin\System.Web.WebPages.Razor.dll
+C:\Users\Win 10\Desktop\web nâng cao\BT5\WebApplication5\bin\WebGrease.dll
+C:\Users\Win 10\Desktop\web nâng cao\BT5\WebApplication5\bin\System.Web.Helpers.xml
+C:\Users\Win 10\Desktop\web nâng cao\BT5\WebApplication5\bin\System.Web.Mvc.xml
+C:\Users\Win 10\Desktop\web nâng cao\BT5\WebApplication5\bin\System.Web.Optimization.xml
+C:\Users\Win 10\Desktop\web nâng cao\BT5\WebApplication5\bin\System.Web.Razor.xml
+C:\Users\Win 10\Desktop\web nâng cao\BT5\WebApplication5\bin\System.Web.WebPages.xml
+C:\Users\Win 10\Desktop\web nâng cao\BT5\WebApplication5\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Win 10\Desktop\web nâng cao\BT5\WebApplication5\bin\System.Web.WebPages.Razor.xml
+C:\Users\Win 10\Desktop\web nâng cao\BT5\WebApplication5\bin\Newtonsoft.Json.xml
+C:\Users\Win 10\Desktop\web nâng cao\BT5\WebApplication5\bin\Antlr3.Runtime.pdb
+C:\Users\Win 10\Desktop\web nâng cao\BT5\WebApplication5\bin\EntityFramework.xml
+C:\Users\Win 10\Desktop\web nâng cao\BT5\WebApplication5\bin\EntityFramework.SqlServer.xml
+C:\Users\Win 10\Desktop\web nâng cao\BT5\WebApplication5\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Win 10\Desktop\web nâng cao\BT5\WebApplication5\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Win 10\Desktop\web nâng cao\BT5\WebApplication5\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Win 10\Desktop\web nâng cao\BT5\WebApplication5\bin\Microsoft.Owin.xml
+C:\Users\Win 10\Desktop\web nâng cao\BT5\WebApplication5\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Win 10\Desktop\web nâng cao\BT5\WebApplication5\bin\Microsoft.Owin.Security.xml
+C:\Users\Win 10\Desktop\web nâng cao\BT5\WebApplication5\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Win 10\Desktop\web nâng cao\BT5\WebApplication5\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Win 10\Desktop\web nâng cao\BT5\WebApplication5\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Win 10\Desktop\web nâng cao\BT5\WebApplication5\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Win 10\Desktop\web nâng cao\BT5\WebApplication5\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Win 10\Desktop\web nâng cao\BT5\WebApplication5\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Win 10\Desktop\web nâng cao\BT5\WebApplication5\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Win 10\Desktop\web nâng cao\BT5\WebApplication5\obj\Debug\WebApplication5.csprojAssemblyReference.cache
+C:\Users\Win 10\Desktop\web nâng cao\BT5\WebApplication5\obj\Debug\WebApplication5.Migrations.Initial.resources
+C:\Users\Win 10\Desktop\web nâng cao\BT5\WebApplication5\obj\Debug\WebApplication5.csproj.GenerateResource.cache
+C:\Users\Win 10\Desktop\web nâng cao\BT5\WebApplication5\obj\Debug\WebApplication5.csproj.CoreCompileInputs.cache
+C:\Users\Win 10\Desktop\web nâng cao\BT5\WebApplication5\obj\Debug\WebApplication5.csproj.CopyComplete
+C:\Users\Win 10\Desktop\web nâng cao\BT5\WebApplication5\obj\Debug\WebApplication5.dll
+C:\Users\Win 10\Desktop\web nâng cao\BT5\WebApplication5\obj\Debug\WebApplication5.pdb
