@@ -1,7 +1,12 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\WebApplication5",
+    "\\WebApplication5\\Controllers",
+    "\\WebApplication5\\Models",
+    "\\WebApplication5\\Views",
+    "\\WebApplication5\\Views\\Home"
   ],
-  "SelectedNode": "\\WebApplication5.sln",
+  "SelectedNode": "\\WebApplication5\\Views\\Home\\Danhsachsanphamfull.cshtml",
   "PreviewInSolutionExplorer": false
 }

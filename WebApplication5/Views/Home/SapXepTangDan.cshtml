@@ -1,0 +1,36 @@
+﻿
+@{
+    ViewBag.Title = "SapXepTangDan";
+}
+
+<h2>SapXepTangDan</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Tên Sản Phẩm</th>
+            <th>Giá</th>
+            <th>Nhà sản xuất</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+
+
+        @foreach (var item in ViewBag.ds)
+        {
+            <tr>
+                <td data-label="">@item.Tensanpham</td>
+                <td data-label="">@item.Gia</td>
+                <td data-label="">@item.Nsx</td>
+            </tr>
+
+        }
+
+
+
+
+    </tbody>
+</table>
+
+<a href="@Url.Action("Danhsachsanphamfull","Home")" class="btn btn-success">Trở về danh sách</a>

@@ -106,7 +106,20 @@ namespace WebApplication5.Controllers
             return View();
         }
 
-
+        public ActionResult SapXepTangDan()
+        {
+            QuanLy q = new QuanLy();
+            List<Sanpham> ds = q.SapXepTangDan();
+            ViewBag.ds = ds;
+            return View();
+        }
+        public ActionResult SapXepGiamDan()
+        {
+            QuanLy q = new QuanLy();
+            List<Sanpham> ds = q.SapXepGiamDan();
+            ViewBag.ds = ds;
+            return View();
+        }
 
 
     }

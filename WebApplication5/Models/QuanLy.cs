@@ -44,6 +44,7 @@ namespace WebApplication5.Models
 
 
         }
+
         public int sua(int id,string tensanpham,int gia, string nsx)
         {
 
@@ -63,6 +64,7 @@ namespace WebApplication5.Models
             catch (Exception)
             { return 0; }    
         }
+
         public List<Loaisanpham> dssp()
         {
             List<Loaisanpham> list = new List<Loaisanpham>();
@@ -90,6 +92,7 @@ namespace WebApplication5.Models
                 return db.Sanpham.Find(id);
             }
         }
+
         public List<Sanpham> Timtheonsx(string Nsx)
         {
             using (CSDLContext db = new CSDLContext())
@@ -98,6 +101,21 @@ namespace WebApplication5.Models
             }
         }
 
+        public List<Sanpham> SapXepTangDan()
+        {
+            using (CSDLContext db = new CSDLContext())
+            {
+                return db.Sanpham.OrderBy(a => a.Gia).Take(3).ToList();
+            }
+        }
+
+        public List<Sanpham> SapXepGiamDan()
+        {
+            using (CSDLContext db = new CSDLContext())
+            {
+                return db.Sanpham.OrderByDescending(a => a.Gia).ToList();
+            }
+        }
 
 
     }
