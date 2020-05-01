@@ -15,17 +15,33 @@
     <script src="~/Scripts/delete.js"></script>
 </head>
 <body>
+
     <div class="container">
+        <!--tim theo id-->
         <form class="col-sm-4" action="@Url.Action("TimsanphamtheoID","Home")" method="get">
             <a>
                 Enter ID to Find
                 <input type="text" name="id" id="id" value="" />
-                    <input type="submit" class="glyphicon glyphicon-search" value="Search" />
+                <input type="submit" class="glyphicon glyphicon-search" value="Search" />
             </a>
 
 
             @*<button class="btn btn-success btn-lg" type="button" data-toggle="modal" data-target="#ModalEdit">Find</button>*@
         </form>
+        <!--tim theo nsx-->
+        <form action="@Url.Action("Resulttimtheonsx","Home")" method="post">
+            <a>
+
+                Enter Origin
+
+                <input type="text" name="Nsx" id="Nsx" value="" />
+                <input type="submit" value="Search" class="glyphicon glyphicon-search" />
+
+            </a>
+        </form>
+
+
+
     </div>
 
     <table class="table">
@@ -39,6 +55,8 @@
             </tr>
         </thead>
         <tbody>
+
+
             @foreach (var l in ViewBag.dsfull)
             {
                 <tr>
@@ -46,6 +64,7 @@
                     <td data-label="">@l.Tensanpham</td>
                     <td data-label="">@l.Gia</td>
                     <td data-label="">@l.Nsx</td>
+                    <!--modal delete-->
                     <td>
                         <form class="col-sm-4" action="@Url.Action("Xoasanpham","Home")" method="post">
                             <button type="button" class="btn btn-danger btn-lg" data-toggle="modal" data-target="#ModalRemove">Delete</button>
@@ -53,26 +72,28 @@
                         <div class="modal fade" id="ModalRemove" role="dialog">
                             <div class="modal-dialog">
                                 <div class="modal-content">
-                                    <div class="modal-header">
+                                    @*<div class="modal-header">
                                         <button type="button" class="close" data-dismiss="modal">&times;</button>
                                         <h4 class="modal-title">Modal Header</h4>
-                                    </div>
+                                    </div>*@
                                     <div class="modal-body">
                                         <form action="@Url.Action("ResultXoasanpham","Home",new {ID = l.ID})" method="post">
                                             <h2>
                                                 You want remove ID: @l.ID
                                             </h2>
-
+                                            <input style="" class="btn btn-info" type="submit" value="Confirm" />                                    
+                                            <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
                                         </form>
                                     </div>
-                                    <div class="modal-footer">
-                                        <input style="" class="btn btn-info" type="submit" value="Confirm" />
-                                        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-                                    </div>
+                                    @*<div class="modal-footer">
+
+                                        
+                                    </div>*@
                                 </div>
                             </div>
                         </div>
                     </td>
+                    <!--modal edit-->
                     <td>
                         <form class="col-sm-4" action="@Url.Action("Suasanpham","Home")" method="post">
                             <button class="btn btn-success btn-lg" type="button" data-toggle="modal" data-target="#ModalEdit">Edit</button>

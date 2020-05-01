@@ -226,6 +226,7 @@
     <Content Include="Views\Home\resultthemsanpham1.cshtml" />
     <Content Include="Views\Home\Danhsachsanphamfull.cshtml" />
     <Content Include="Views\Home\TimsanphamtheoID.cshtml" />
+    <Content Include="Views\Home\Resulttimtheonsx.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

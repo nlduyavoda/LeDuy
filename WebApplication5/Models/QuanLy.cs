@@ -8,7 +8,7 @@ namespace WebApplication5.Models
 {
     public class QuanLy
     {
-     
+   
         public int them1(int id,string tensanpham,int gia,string nsx, string tenloai)
         {
             try
@@ -90,6 +90,14 @@ namespace WebApplication5.Models
                 return db.Sanpham.Find(id);
             }
         }
+        public List<Sanpham> Timtheonsx(string Nsx)
+        {
+            using (CSDLContext db = new CSDLContext())
+            {
+                return db.Sanpham.Where(a => a.Nsx.Equals(Nsx)).ToList();
+            }
+        }
+
 
 
     }

@@ -10,22 +10,44 @@ namespace WebApplication5.Controllers
 {
     public class HomeController : Controller
     {
-        public ActionResult Index()
+
+        //public ActionResult Index()
+        //{
+        //    return View();
+        //}
+
+        //public ActionResult About()
+        //{
+        //    ViewBag.Message = "Your application description page.";
+
+        //    return View();
+        //}
+
+        //public ActionResult Contact()
+        //{
+        //    ViewBag.Message = "Your contact page.";
+
+        //    return View();
+        //}
+
+        public ActionResult TimsanphamtheoID(int id)
         {
+            QuanLy q = new QuanLy();
+            Sanpham sp = q.TimID(id);
+            ViewBag.sp = sp;
             return View();
         }
 
-        public ActionResult About()
+        public ActionResult Timtheonsx()
         {
-            ViewBag.Message = "Your application description page.";
-
             return View();
         }
-
-        public ActionResult Contact()
+        [HttpPost]
+        public ActionResult Resulttimtheonsx(string Nsx)
         {
-            ViewBag.Message = "Your contact page.";
-
+            QuanLy q = new QuanLy();
+            List<Sanpham> ds = q.Timtheonsx(Nsx);
+            ViewBag.ds = ds;
             return View();
         }
 
@@ -45,9 +67,8 @@ namespace WebApplication5.Controllers
         [HttpPost]
         public ActionResult ResultXoasanpham(int id)
         {
-            QuanLy ql = new QuanLy();
-            ql.xoa(id);
-            ViewBag.Message = "Your list was remove";
+            QuanLy q = new QuanLy();
+            q.xoa(id);
             return View();
         }
 
@@ -82,14 +103,6 @@ namespace WebApplication5.Controllers
             int tmp = ql.them1(id,tensanpham, gia, nsx, tenloai);
             if (tmp != 0) ViewBag.Message = "Add to succes";
             else ViewBag.Message = "Add failed";
-            return View();
-        }
-
-        public ActionResult TimsanphamtheoID(int id)
-        {
-            QuanLy q = new QuanLy();
-            Sanpham sp = q.TimID(id);
-            ViewBag.sp = sp;
             return View();
         }
 
